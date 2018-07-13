@@ -17,6 +17,8 @@ def turn_page
   puts "Flipping the page...wow, you read fast!"
 end 
 
+worldatg = Book.new("The World According to Garp")
+worldatg.turn_page
 
 # great_gatsby = Book.new("The Great Gatsby", "F Scott Fitzgerald", "Fiction", 180)
 # great_gatsby.author = "F Scott Fitzgerald"
