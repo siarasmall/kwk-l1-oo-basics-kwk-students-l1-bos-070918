@@ -4,3 +4,5 @@ class Shoe
     @brand = brand
   end #defini
 end #class
+
+converse = Shoe.new("converse")
