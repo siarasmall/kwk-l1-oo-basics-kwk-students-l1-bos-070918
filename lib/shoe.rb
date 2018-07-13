@@ -7,5 +7,9 @@ class Shoe
     @condition = condition
   end #defini
   def cobble
+    puts "Your shoe is as good as new!"
+    @condition = "new"
+  end #def
+  
 end #class
 
