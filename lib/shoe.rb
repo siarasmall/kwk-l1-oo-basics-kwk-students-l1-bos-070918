@@ -6,6 +6,7 @@ class Shoe
     @color
     @size
     @material
+    @condition
   end #defini
 end #class
 
