@@ -2,6 +2,8 @@
 class Shoe
   def initialize(brand)
     @brand = brand
+    @properties
+    @size
   end #defini
 end #class
 
