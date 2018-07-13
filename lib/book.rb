@@ -16,10 +16,10 @@ end #class
 def turn_page
 end 
 
-great_gatsby = Book.new("The Great Gatsby", "F Scott Fitzgerald", "Fiction", 180)
-great_gatsby.author = "F Scott Fitzgerald"
-puts great_gatsby.title
-puts great_gatsby.author
-puts great_gatsby.genre
-puts great_gatsby.page_count
+# great_gatsby = Book.new("The Great Gatsby", "F Scott Fitzgerald", "Fiction", 180)
+# great_gatsby.author = "F Scott Fitzgerald"
+# puts great_gatsby.title
+# puts great_gatsby.author
+# puts great_gatsby.genre
+# puts great_gatsby.page_count
 
