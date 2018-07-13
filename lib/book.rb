@@ -17,6 +17,8 @@ def turn_page
   puts "Flipping the page...wow, you read fast!"
 end 
 
+book.turn_page
+
 # great_gatsby = Book.new("The Great Gatsby", "F Scott Fitzgerald", "Fiction", 180)
 # great_gatsby.author = "F Scott Fitzgerald"
 # puts great_gatsby.title
