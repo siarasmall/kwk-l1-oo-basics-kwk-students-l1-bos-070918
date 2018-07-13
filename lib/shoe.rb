@@ -5,4 +5,4 @@ class Shoe
   end #defini
 end #class
 
-converse = Shoe.new("converse")
+nike = Shoe.new("Nike")
