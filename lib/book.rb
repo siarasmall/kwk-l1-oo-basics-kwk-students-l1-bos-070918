@@ -11,11 +11,14 @@ class Book
     # @genre = genre
     # @page_count = page_count
   end #initialize
-end #class
-
-def turn_page
+  
+  def turn_page
   puts "Flipping the page...wow, you read fast!"
 end 
+
+end #class
+
+
 
 worldatg = Book.new("The World According to Garp")
 worldatg.turn_page
